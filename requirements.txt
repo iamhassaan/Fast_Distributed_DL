@@ -4,3 +4,7 @@ requests
 sqlalchemy
 passlib
 gunicorn==19.9.0
+psycopg2==2.8.3
+psycopg2-binary==2.8.3
+autopep8==1.4.4
+Click==7.0
