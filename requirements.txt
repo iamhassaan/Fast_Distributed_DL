@@ -3,4 +3,4 @@ Flask
 requests
 sqlalchemy
 passlib
-gunicorn
+gunicorn==19.9.0
